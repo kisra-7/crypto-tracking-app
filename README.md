@@ -1,16 +1,29 @@
-# crypto_app
+# Crypto Tracker & Portfolio App 📊
 
-A new Flutter project.
+A simple app for tracking cryptocurrency prices and managing portfolios, built with GetX for state management. Features real-time market data and easy portfolio tools.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+clone project from repo and run using command.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table>
+
+<tr>
+    <td> <img src="https://github.com/kisra-7/crypto-tracking-app/blob/06e2e84a7a7b5e5b36a3dd97d82c7e44777624f9/Screenshot%202025-01-10%20063946.png" width="200" /></td>
+    <td><img src="https://github.com/kisra-7/crypto-tracking-app/blob/06e2e84a7a7b5e5b36a3dd97d82c7e44777624f9/Screenshot%202025-01-10%20063313.png" width="200" /></td>
+     <td><img src="https://github.com/kisra-7/crypto-tracking-app/blob/06e2e84a7a7b5e5b36a3dd97d82c7e44777624f9/Screenshot%202025-01-10%20063322.png" width="200" /></td>
+    </tr>
+
+
+
+
+</table>
+
+## Contributing
+Pull requests are welcomed.
